@@ -6,7 +6,7 @@ Minimalistic Frogger clone in less than 500 bytes
 ## Screenshot
 ![Screenshot](fro.png)
 ## Controlls
-* Kempston OR Sinclair 1/ Keyboards (keys 1,2,3,4)
+* Kempston OR Sinclair 1 / Keyboard (keys 1,2,3,4)
 ## Bonus ;)
 ![bonus](info_fixed.png)
 ## Build instruction
