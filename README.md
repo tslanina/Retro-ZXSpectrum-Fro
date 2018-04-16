@@ -8,7 +8,7 @@ Minimalistic Frogger clone in less than 500 bytes
 ## Controlls
 * Kempston OR Sinclair 1/ Keyboards (keys 1,2,3,4)
 ## Bonus ;)
-![bonus](info.png)
+![bonus](info_fixed.png)
 ## Build instruction
 * Use Pasmo to build (build.sh for MacOS)
 
