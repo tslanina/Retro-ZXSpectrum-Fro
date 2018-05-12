@@ -1,5 +1,5 @@
 # FRO
-Minimalistic Frogger clone in less than 500 bytes
+Minimalist Frogger clone in less than 500 bytes
 ## Tech
 * ZX Spectrum 48
 * Z80 Assembler ( <500 bytes executable size)
